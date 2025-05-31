@@ -51,15 +51,13 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   </a>
-
-<!-- OpenAI -->
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://en.wikipedia.org/wiki/OpenAI#/media/File:OpenAI_logo_2025_(symbol).svg" alt="openai" width="60" height="60"/>
-</a>
-<!-- Azure Cognitive Services (fallback to general Azure) -->
   <a href="https://azure.microsoft.com/en-us/products/cognitive-services/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-cognitive-services" width="60" height="60"/>
   </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/800px-OpenAI_logo_2025_%28symbol%29.svg.png" alt="openai" width="60" height="60"/>
+  </a>
+  
 </p>
 
 
