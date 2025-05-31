@@ -54,7 +54,7 @@
 
 <!-- OpenAI -->
 <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="openai" width="60" height="60"/>
+  <img src="https://en.wikipedia.org/wiki/OpenAI#/media/File:OpenAI_logo_2025_(symbol).svg" alt="openai" width="60" height="60"/>
 </a>
 <!-- Azure Cognitive Services (fallback to general Azure) -->
   <a href="https://azure.microsoft.com/en-us/products/cognitive-services/" target="_blank" rel="noreferrer">
