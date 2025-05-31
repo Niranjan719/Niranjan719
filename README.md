@@ -1,8 +1,8 @@
 ## Hi there, I'm Niranjan Sai 👋
 
-👨‍💻 Python and Generative AI Developer who enjoys building things from the ground up
-💪 Strengths: Python, Gen AI & Azure Cloud with a heavy focus on Gen AI applications and workflows
-👨🏽‍💻 Software Engineer, AI @ Tata Consultancy Services Helping customers develop and deploy GenAI applications on Azure
+  - 👨‍💻 Python and Generative AI Developer who enjoys building things from the ground up
+  - 💪 Strengths: Python, Gen AI & Azure Cloud with a heavy focus on Gen AI applications and workflows
+  - 👨🏽‍💻 Software Engineer, AI @ Tata Consultancy Services Helping customers develop and deploy GenAI applications on Azure
 
 <!--
 **Niranjan719/Niranjan719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
