@@ -52,13 +52,11 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   </a>
 
-<!-- Azure OpenAI (using official OpenAI logo from OpenAI GitHub) -->
-<a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/openai/openai-cookbook/main/media/logo.png" alt="azure-openai" width="60" height="60"/>
+<!-- OpenAI -->
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="openai" width="60" height="60"/>
 </a>
-
-
-  <!-- Azure Cognitive Services (fallback to general Azure) -->
+<!-- Azure Cognitive Services (fallback to general Azure) -->
   <a href="https://azure.microsoft.com/en-us/products/cognitive-services/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-cognitive-services" width="60" height="60"/>
   </a>
