@@ -1,8 +1,8 @@
 ## Hi there, I'm Niranjan Sai 👋
 
   - 👨‍💻 Python and Generative AI Developer who enjoys building things from the ground up
-  - 💪 Strengths: Python, Gen AI & Azure Cloud with a heavy focus on Gen AI applications and workflows
-  - 👨🏽‍💻 Software Engineer, AI @ Tata Consultancy Services Helping customers develop and deploy GenAI applications on Azure
+  - 💪 Strengths: Python, Gen AI,Azure & Google Cloud with a heavy focus on Gen AI applications and workflows
+  - 👨🏽‍💻 Senior Ai Engineer at IKS Health, Helping clients develop and deploy GenAI applications
 
 
 
