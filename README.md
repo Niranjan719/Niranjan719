@@ -17,9 +17,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>
-   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/800px-OpenAI_logo_2025_%28symbol%29.svg.png" alt="openai" width="60" height="60"/>
-  </a>
 
   <!-- Azure -->
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
