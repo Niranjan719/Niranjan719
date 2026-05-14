@@ -1,37 +1,120 @@
 ## Hi there, I'm Niranjan Sai 👋
 
-👨‍💻 Senior AI Engineer with expertise in building scalable AI systems and robust backend architectures
-🔭 Currently working on Machine Learning & Generative AI projects
-🌱 Exploring cutting-edge AI models and intelligent solutions
-💡 Passionate about innovation and technology
-🎯 Building the future with AI-powered applications
-📫 Reach me at: niranjansaikoppisetti@gmail.com
-
-
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Researcher;Data+Scientist;Building+Intelligent+Systems;Turning+Data+Into+Insights!)
-  
-  <img src="https://komarev.com/ghpvc/?username=vedantparmar12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vedantparmar12?label=Followers&style=social" alt="GitHub Followers" />
-  
+
+# 🚀 Senior AI Engineer | GenAI • LLMs • RAG • Cloud • Backend Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Senior+AI+Engineer;Building+Scalable+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Backend+Engineer+%7C+Cloud+Developer;Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
+
 </div>
 
+---
 
-<br><br>🔭 I’m currently working on:  <br>  Building engaging and intelligent applications using AI, automation, and modern web technologies. I'm especially focused on integrating AI into real-world tools and workflows that make life easier and smarter.<br><br>👯 I’m looking to collaborate on:  <br>  Open-source projects related to AI, developer tools, or productivity-enhancing apps. I enjoy working on thoughtfully designed projects that create meaningful impact.<br><br>🤝 I’m looking for help with:<br>Growing into a confident and capable AI Engineer. I'm passionate about building intelligent agents that enhance human potential and simplify everyday life.<br><br>- 🌱 I’m currently learning:  <br>  - Advanced Python  <br>  - AI/ML model deployment and fine-tuning  <br>  - Cloud-native development (especially with Azure and AWS)  <br>  - Agentic frameworks and autonomous systems<br><br>- 💬 Ask me about:  <br>  - Agentic frameworks  <br>  - LLMs and vector embeddings  <br>  - Retrieval-Augmented Generation (RAG) and fine-tuning techniques<br><br>- 😄 Fun facts:  <br>  - I believe in lifelong learning and sharing knowledge with the community  <br>  - AI won’t take your job… but someone who knows AI just might 😄
+## 👨‍💻 About Me
 
+- 🚀 Senior AI Engineer focused on building scalable, reliable, and intelligent systems  
+- 🔭 Currently working on **Machine Learning, Generative AI, and Agentic AI projects**  
+- 🌱 Exploring **LLMs, autonomous agents, fine-tuning, and advanced AI architectures**  
+- 💡 Passionate about **innovation, backend engineering, and AI-driven solutions**  
+- 🎯 Building impactful **AI-powered applications** for real-world use cases  
+- ⚡ Strong experience in **Python, Django, LangChain, RAG, Vector Databases, and Cloud Technologies**  
+- 📫 Reach me at: **niranjansaikoppisetti@gmail.com**
 
- 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushbu318&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushbu318&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushbu318&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushbu318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🔭 Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Building intelligent applications using:
 
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI Automation & Agentic Workflows
+- ☁️ Cloud-Native AI Systems
+- 🌐 Modern Full-Stack Applications
+
+---
+
+## 👯 Open to Collaborate On
+
+- Open-source AI projects
+- Developer productivity tools
+- AI-powered SaaS applications
+- Intelligent automation platforms
+- Real-world Generative AI solutions
+
+---
+
+## 🤝 Currently Improving
+
+- Advanced AI Engineering skills
+- Distributed & scalable AI architectures
+- Autonomous AI agents and workflows
+- Production-grade ML deployment
+- Cloud-native system design
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python & System Design  
+- LLM Fine-Tuning & Optimization  
+- Azure & AWS Cloud Services  
+- AI Agent Frameworks  
+- Scalable Vector Databases  
+- MLOps & AI Deployment Pipelines  
+
+---
+
+## 💬 Ask Me About
+
+- 🤖 Generative AI & LLMs  
+- 🔎 Retrieval-Augmented Generation (RAG)  
+- 🧠 LangChain & Agentic Frameworks  
+- 🐍 Python Backend Development  
+- ☁️ Azure AI & Cloud Engineering  
+- 📊 AI System Architecture  
+
+---
+
+## 😄 Fun Facts
+
+- 📚 I believe in lifelong learning and knowledge sharing  
+- 🚀 Passionate about building AI that solves real problems  
+- ⚡ “AI won’t replace humans, but humans using AI will lead the future.”  
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🤖 AI / ML / Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+<div align="center">
+
+### 🚀 Building Intelligent Systems for the Future
+
+</div>
