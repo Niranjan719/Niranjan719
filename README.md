@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Senior AI Engineer | GenAI • LLMs • RAG • Cloud • Backend Systems
+# 🚀 Senior AI Engineer | GenAI • LLMs • RAG • Google Cloud • Backend Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Senior+AI+Engineer;Building+Scalable+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Backend+Engineer+%7C+Cloud+Developer;Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
 - 🌱 Exploring **LLMs, autonomous agents, fine-tuning, and advanced AI architectures**  
 - 💡 Passionate about **innovation, backend engineering, and AI-driven solutions**  
 - 🎯 Building impactful **AI-powered applications** for real-world use cases  
-- ⚡ Strong experience in **Python, Django, LangChain, RAG, Vector Databases, and Cloud Technologies**  
+- ⚡ Strong experience in **Python, FastAPI, LangChain, Langgraph, RAG, n8n, Vector Databases, and Cloud Technologies**  
 - 📫 Reach me at: **niranjansaikoppisetti@gmail.com**
 
 ---
